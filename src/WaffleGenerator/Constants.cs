@@ -3,14 +3,14 @@ class Constants
 {
     public static string[] preamblePhrases =
     {
-        @"In broad terms, we can define the main issues with |t. There are :-
-  * The |o of |o: |B |C |D.
-  * The |o of |o: |B |C |D.
-  * The |o of |o: |B |C |D.
-  * The |o of |o: |B |C |D.
+        @"A grandi linee, possiamo definire i principale problemi con |t. Essi sono :-
+  * Il |o del |o: |B |C |D.
+  * Il |o del |o: |B |C |D.
+  * Il |o del |o: |B |C |D.
+  * Il |o del |o: |B |C |D.
 
 ",
-        @"The following points should be appreciated about |t;
+        @"I seguenti punti dovrebbero essere considerati circa |t;
   1. |B |C |D.
   2. |B |C |D.
   3. |B |C |D.
@@ -19,7 +19,7 @@ class Constants
   6. |B |C |D.
 
 ",
-        @"Note that:-
+        @"Notare che:-
 
   1. |B |C |D..
   2. |B |C |D..
@@ -29,7 +29,7 @@ class Constants
   6. |B |C |D.
 
 ",
-        @"Essentially;
+        @"Essenzialmente;
 
   * |B |C |D.
   * |B |C |D.
@@ -39,65 +39,65 @@ class Constants
   * |B |C |D.
 
 ",
-        @"To make the main points more explicit, it is fair to say that;
+        @"Per esprimere più esplicitamente i punti principali, è lecito dire che;
   * |B |C |D.
   * |B |C |D.
   * |B |C |D.
   * |B |C |D.
 
 ",
-        "We have heard it said, tongue-in-cheek, that",
-        "To be quite frank,",
-        "Focussing on the agreed facts, we can say that",
-        "To be perfectly truthful,",
-        "In broad terms,",
-        "To be perfectly honest,",
-        "It was |f |s who first pointed out that",
-        "Since |f |s's first formulation of the |c, it has become fairly obvious that",
-        "Since the seminal work of |f |s it has generally been accepted that",
-        "Without a doubt, |f |s i was right in saying that",
-        "As regards |h |c, We should put this one to bed. On the other hand,",
-        "As regards |h |c, This may have a knock-on effect. On the other hand,",
-        "We must take on board that fact that",
-        "Without a doubt, |B |C |D. So, where to from here? Presumably,",
-        "It has hitherto been accepted that",
-        "At the end of the day,",
-        "Under the provision of the overall |1 plan,",
-        "Firming up the gaps, one can say that",
-        "Within the bounds of |h |c,",
-        "The |h |c provides us with a win-win situation. Especially if one considers that",
-        "There are swings and roundabouts in considering that",
-        "To be precise,",
-        "Whilst taking the subject of  |h |c offline, one must add that",
-        "For example,",
-        "An orthodox view is that",
-        "To reiterate,",
-        "To recapitulate,",
-        "Strictly speaking,",
-        "In a very real sense,",
-        "Regarding the nature of |h |c,",
-        "In a strictly mechanistic sense,",
-        "One is struck quite forcibly by the fact that",
-        "In any event,",
-        "In particular,",
-        "In assessing the |c, one should think outside the box. on the other hand,",
-        "On the other hand,",
-        "It is recognized that",
-        "Focusing specifically on the relationship between |h |c and any |c,",
-        "Although it is fair to say that |B |C |D, one should take this out of the loop",
+        "Abbiamo sentito dire, ironicamente, che",
+        "Per essere abbastanza franchi,",
+        "Contentrandoci sui fatti concordati, possiamo dire che",
+        "Ad essere perfettamente sinceri,",
+        "A grandi linee,",
+        "Ad essere perfettamente onesti,",
+        "Fu |f |s ad evidenziare per primo che",
+        "Fin dalla prima formulazione di |f |s del |c, è diventato abbastanza ovvio che",
+        "A partire dall'influente lavoro di |f |s è stato generalmente accettato che",
+        "Senza dubbio, |f |s aveva ragione nel dire che",
+        "Con riferimento a |h |c, dovremmo smettere di discuterne. D'altro canto,",
+        "Riguardo a |h |c, questo puà avere un effetto a catena. D'altro canto,",
+        "Dobbiamo prendere in considerazione il fatto che",
+        "Senza alcun dubbio, |B |C |D. Quindi, quale strada intraprendere? Presumibilmente,",
+        "Finora è stato accettato che",
+        "In definitiva,",
+        "Conformemente al piano |1,",
+        "Per consolidare le lacune, si può dire che",
+        "Nei limiti di |h |c,",
+        "Il |h |c ci fornisce una soluzione win-win. Specialmente se si considera che",
+        "Ci sono certamente aspetti positivi ma anche svantaggi nel considerare che",
+        "Per essere preciso,",
+        "Nel superare l'argomento del |h |c, si deve aggiungere che",
+        "Per esempio,",
+        "Un punto di vista ortodosso è che",
+        "Per ribadire,",
+        "Per ricapitolare,",
+        "Tecnicamente,",
+        "Nel vero senso della parola,",
+        "Riguardo la natura di |h |c,",
+        "In un senso strettamente meccanicistico,",
+        "Si viene quasi forzatamente colpiti dal fatto che",
+        "In ogni caso,",
+        "In particolare,",
+        "Nel valutare il |c, bisogna ragionare in modo laterale. D'altronde,",
+        "D'altro canto,",
+        "E' riconosciuto che",
+        "Considerando specificatamente la relazione tra |h |c e ciascun |c,",
+        "Mentre è giusto dire che |B |C |D, si dovrebbe tenerlo da parte",
         "|bly,",
         "|bly,",
         "|bly,",
-        "Be that as it may,",
-        "Taking everything into consideration,",
-        "As in so many cases, we can state that",
-        "The |c cannot explain all the problems in maximizing the efficacy of |h |c. Generally",
-        "We can confidently base our case on an assumption that",
-        "An initial appraisal makes it evident that",
-        "An investigation of the |1 factors suggests that",
-        "It is common knowledge that",
-        "Despite an element of volatility,",
-        "The less obviously co-existential factors imply that",
+        "Sia come sia,",
+        "Tutto considerato,",
+        "Come in molti altri casi, possiamo affermare che",
+        "Il |c non può spiegare tutti i problemi della massimizzazione dell'efficacia di |h |c. Generalmente",
+        "Possiamo con relativa sicurezza basare il nostro caso sull'assunzione che",
+        "Una iniziale stima ha reso evidente che",
+        "L'indagine dei fattori |1 suggerisce che",
+        "E' noto che",
+        "Nonostante un elemento di volatilità,",
+        ---"The less obviously co-existential factors imply that",
         "To coin a phrase,",
         "One might venture to suggest that",
         "In all foreseeable circumstances,",
